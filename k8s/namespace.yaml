@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: golang-crud
+  labels:
+    name: golang-crud
+    purpose: clean-architecture-demo
